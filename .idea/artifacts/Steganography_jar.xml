@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Steganography:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Steganography_jar</output-path>
+    <root id="archive" name="Steganography.jar">
+      <element id="module-output" name="Steganography" />
+    </root>
+  </artifact>
+</component>
